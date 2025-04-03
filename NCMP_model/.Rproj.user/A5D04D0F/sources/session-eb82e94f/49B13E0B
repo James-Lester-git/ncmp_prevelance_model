@@ -1,0 +1,26 @@
+{
+    "id": "49B13E0B",
+    "path": "Z:/IA_NCMP/NCMP_prevelance_model/NCMP_model/2.run_model.R",
+    "project_path": "2.run_model.R",
+    "type": "r_source",
+    "hash": "657750743",
+    "contents": "",
+    "dirty": false,
+    "created": 1743584792146.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "178,48",
+        "scrollLine": "161"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743585149,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743585149599,
+    "read_only": false,
+    "read_only_alternatives": []
+}
