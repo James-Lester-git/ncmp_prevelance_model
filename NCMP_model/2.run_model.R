@@ -12,7 +12,7 @@ source("NCMP_prevelance_model/NCMP_model/1.loading_and_cleaning.R")
 #### SECTION 1 - PARAMETERS #####
 #################################
 #Look in "1.loading_and_cleaning.R" to decide year group, survey years and sample size.
-school_group <- "6"  # Either "6" or "R"
+school_group <- "R"  # Either "6" or "R"
 bmi_targetting <- 0
 num_targetting <- 100
 proportion_in_target <- num_targetting / 100
