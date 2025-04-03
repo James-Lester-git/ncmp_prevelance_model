@@ -59,7 +59,7 @@ prepare_ncmp_data_for_model <- function(df) {
         gendercode == "F" ~ 2,
         TRUE ~ NA_real_
       ),
-      height = height/100,
+      height = height/100, #convert metres to cm
       weight = weight,
       bmizscore = bmizscore,
       wt = 1 
